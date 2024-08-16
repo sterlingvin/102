@@ -25,6 +25,7 @@ jobs:
 
       - name: Run tests
         run: |
+          cd .github\workflows\test_app.py
           pytest test_app.py
           
       - name: Run Linting
