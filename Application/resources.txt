@@ -1,0 +1,4 @@
+This is the simple python application 
+    pyhton file using flask framework
+    python test file
+    ci/cd yml file for the github actions
