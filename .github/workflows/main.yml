@@ -32,4 +32,5 @@ jobs:
       - name: Run Linting
         run: |
           pip install flake8
+          cd Application/
           flake8 main.py test_app.py
